@@ -139,7 +139,7 @@
     "glob": "^7.1.2",
     "i18next": "^19.8.5",
     "i18next-xhr-backend": "^1.5.1",
-    "upath": "1.0.5",
+    "upath": "2.0.1",
     "snyk": "^1.493.0"
   },
   "devDependencies": {
