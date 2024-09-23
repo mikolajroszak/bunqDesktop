@@ -138,7 +138,7 @@
     "fs-jetpack": "^1.0.0",
     "glob": "^7.1.2",
     "i18next": "^19.8.5",
-    "i18next-xhr-backend": "^1.5.1",
+    "i18next-xhr-backend": "^3.2.2",
     "upath": "1.0.5",
     "snyk": "^1.493.0"
   },
